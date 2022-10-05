@@ -1,0 +1,15 @@
+{
+  "title": "Aventura en Coia",
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "background": "https://i.ibb.co/BBzTMZ3/coia-background.jpg",
+  "coreVersion": "10.284",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.2",
+  "id": "aventura-en-coia",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.284"
+  }
+}
