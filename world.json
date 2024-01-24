@@ -11,8 +11,8 @@
     "verified": "11.315",
     "minimum": "11"
   },
-  "description": "<p>Bienvenido a Coia, un mundo de fantasía creado mi (Pablo), donde una guerra de unas criaturas de origen desconocido, conocidas como eternos, asolan los diferentes y únicos territorios del mundo mientras que a su vez múltiples guerras se libran en Afon y Umend, los 2 continentes de Coia.</p><p></p><p>SESIÓN NÚMERO 1 CAMPAÑA 2</p>",
-  "background": "https://i.ibb.co/jhq6Cy8/Pueblo-Random-Churkin.jpg",
+  "description": "<p>Los aventureros encontraron a Zuberi Khufu en su mansión, y le conocieron como un director de Orquesta, músico y asesor de varias facetas para el Imperio Rayuniano. Además Zuberi tiene conexión de alguna manera con Kephrenit. Además conocieron al mayordomo de Zuberi, un anciando y enfermo llamado Rahmok.</p><p>Zuberi ordenó a los aventureros viajar al este, siguiendo el río Tjarum hasta llegar al Oasis de Kra'ekhtun, donde les aguardaría lo necesario para continuar con su misión.</p><p>Por el camino se encontraron unos bandidos, a los cuales mataron, e investigando una mercancía robada descubrieron que había objetos extraños provenientes de Shoraram.</p><p>Tras recitar unas palabras, Alderich invocó un portal y los aventureros se adentraron hacia el Vacío Aberrante, donde les esperaba toda clase de aterradoras criaturas y lugares.</p><p></p><p>SESIÓN NÚMERO 4 CAMPAÑA 2</p>",
+  "background": "https://i.ibb.co/8KvwJTQ/Rayunia-Sabana-Fondo.jpg",
   "packs": [
     {
       "label": "Monster Parts",
@@ -87,8 +87,8 @@
       }
     }
   ],
-  "nextSession": "2023-09-09T21:00:00.000Z",
-  "lastPlayed": "Sat Dec 16 2023 18:59:48 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 1283875,
-  "joinTheme": "minimal"
+  "nextSession": "2024-01-27T09:00:00.000Z",
+  "lastPlayed": "Wed Jan 24 2024 08:58:52 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 3309726,
+  "joinTheme": "default"
 }

@@ -1,3 +1,31 @@
-2023/12/16-18:59:48.150214 7f7bfd46e640 Recovering log #436
-2023/12/16-18:59:48.154829 7f7bfd46e640 Delete type=0 #436
-2023/12/16-18:59:48.154844 7f7bfd46e640 Delete type=3 #435
+2024/01/22-03:33:17.159730 7fa083fff640 Recovering log #606
+2024/01/22-03:33:17.165081 7fa083fff640 Delete type=0 #606
+2024/01/22-03:33:17.165098 7fa083fff640 Delete type=3 #604
+2024/01/24-08:58:52.606135 7f9de30d6640 Level-0 table #614: started
+2024/01/24-08:58:52.613794 7f9de30d6640 Level-0 table #614: 269000 bytes OK
+2024/01/24-08:58:52.616779 7f9de30d6640 Delete type=0 #612
+2024/01/24-08:58:52.673072 7f9de30d6640 Manual compaction at level-0 from '!fog!03We2SNtOOVp0bNG' @ 72057594037927935 : 1 .. '!fog!znGsCC6nctokmviF' @ 0 : 0; will stop at (end)
+2024/01/24-08:58:52.677788 7f9de30d6640 Manual compaction at level-1 from '!fog!03We2SNtOOVp0bNG' @ 72057594037927935 : 1 .. '!fog!znGsCC6nctokmviF' @ 0 : 0; will stop at '!fog!mSRVDcCw7XsFtXDv' @ 1827 : 1
+2024/01/24-08:58:52.677792 7f9de30d6640 Compacting 1@1 + 9@2 files
+2024/01/24-08:58:52.724951 7f9de30d6640 Generated table #615@1: 51 keys, 2140708 bytes
+2024/01/24-08:58:52.769284 7f9de30d6640 Generated table #616@1: 48 keys, 2102987 bytes
+2024/01/24-08:58:52.814899 7f9de30d6640 Generated table #617@1: 41 keys, 2189446 bytes
+2024/01/24-08:58:52.861024 7f9de30d6640 Generated table #618@1: 41 keys, 2205948 bytes
+2024/01/24-08:58:52.904980 7f9de30d6640 Generated table #619@1: 44 keys, 2104664 bytes
+2024/01/24-08:58:52.950243 7f9de30d6640 Generated table #620@1: 42 keys, 2107701 bytes
+2024/01/24-08:58:52.995745 7f9de30d6640 Generated table #621@1: 37 keys, 2113182 bytes
+2024/01/24-08:58:53.042994 7f9de30d6640 Generated table #622@1: 57 keys, 2230038 bytes
+2024/01/24-08:58:53.087814 7f9de30d6640 Generated table #623@1: 39 keys, 2147851 bytes
+2024/01/24-08:58:53.087826 7f9de30d6640 Compacted 1@1 + 9@2 files => 19342525 bytes
+2024/01/24-08:58:53.090071 7f9de30d6640 compacted to: files[ 0 0 15 0 0 0 0 ]
+2024/01/24-08:58:53.090195 7f9de30d6640 Delete type=2 #588
+2024/01/24-08:58:53.090793 7f9de30d6640 Delete type=2 #591
+2024/01/24-08:58:53.090920 7f9de30d6640 Delete type=2 #614
+2024/01/24-08:58:53.091088 7f9de30d6640 Delete type=2 #590
+2024/01/24-08:58:53.091260 7f9de30d6640 Delete type=2 #587
+2024/01/24-08:58:53.091464 7f9de30d6640 Delete type=2 #608
+2024/01/24-08:58:53.091635 7f9de30d6640 Delete type=2 #589
+2024/01/24-08:58:53.091791 7f9de30d6640 Delete type=2 #586
+2024/01/24-08:58:53.092013 7f9de30d6640 Delete type=2 #609
+2024/01/24-08:58:53.092195 7f9de30d6640 Delete type=2 #585
+2024/01/24-08:58:53.322810 7f9de30d6640 Manual compaction at level-1 from '!fog!mSRVDcCw7XsFtXDv' @ 1827 : 1 .. '!fog!znGsCC6nctokmviF' @ 0 : 0; will stop at (end)
