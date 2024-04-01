@@ -1,51 +1,74 @@
-2024/01/22-03:33:16.944344 7fa082ffd640 Recovering log #450
-2024/01/22-03:33:16.950545 7fa082ffd640 Delete type=0 #450
-2024/01/22-03:33:16.950563 7fa082ffd640 Delete type=3 #448
-2024/01/22-15:16:21.518848 7f9de30d6640 Level-0 table #459: started
-2024/01/22-15:16:21.571448 7f9de30d6640 Level-0 table #459: 2099076 bytes OK
-2024/01/22-15:16:21.573746 7f9de30d6640 Delete type=0 #457
-2024/01/22-15:30:17.025050 7f9de30d6640 Compacting 1@1 + 4@2 files
-2024/01/22-15:30:17.122183 7f9de30d6640 Generated table #460@1: 1290 keys, 2126229 bytes
-2024/01/22-15:30:17.222582 7f9de30d6640 Generated table #461@1: 2302 keys, 2131278 bytes
-2024/01/22-15:30:17.321900 7f9de30d6640 Generated table #462@1: 2275 keys, 2129236 bytes
-2024/01/22-15:30:17.342252 7f9de30d6640 Generated table #463@1: 926 keys, 731508 bytes
-2024/01/22-15:30:17.342293 7f9de30d6640 Compacted 1@1 + 4@2 files => 7118251 bytes
-2024/01/22-15:30:17.343731 7f9de30d6640 compacted to: files[ 0 0 4 0 0 0 0 ]
-2024/01/22-15:30:17.343802 7f9de30d6640 Delete type=2 #455
-2024/01/22-15:30:17.344274 7f9de30d6640 Delete type=2 #459
-2024/01/22-15:30:17.344916 7f9de30d6640 Delete type=2 #452
-2024/01/22-15:30:17.345263 7f9de30d6640 Delete type=2 #453
-2024/01/22-15:30:17.345430 7f9de30d6640 Delete type=2 #454
-2024/01/23-15:49:47.429808 7f9de30d6640 Level-0 table #465: started
-2024/01/23-15:49:47.478535 7f9de30d6640 Level-0 table #465: 1948598 bytes OK
-2024/01/23-15:49:47.480623 7f9de30d6640 Delete type=0 #458
-2024/01/23-15:50:36.994509 7f9de30d6640 Compacting 1@1 + 4@2 files
-2024/01/23-15:50:37.051813 7f9de30d6640 Generated table #466@1: 1280 keys, 2125394 bytes
-2024/01/23-15:50:37.105920 7f9de30d6640 Generated table #467@1: 2290 keys, 2131529 bytes
-2024/01/23-15:50:37.158239 7f9de30d6640 Generated table #468@1: 2258 keys, 2130719 bytes
-2024/01/23-15:50:37.180665 7f9de30d6640 Generated table #469@1: 1094 keys, 861514 bytes
-2024/01/23-15:50:37.180680 7f9de30d6640 Compacted 1@1 + 4@2 files => 7249156 bytes
-2024/01/23-15:50:37.182112 7f9de30d6640 compacted to: files[ 0 0 4 0 0 0 0 ]
-2024/01/23-15:50:37.182214 7f9de30d6640 Delete type=2 #465
-2024/01/23-15:50:37.182458 7f9de30d6640 Delete type=2 #463
-2024/01/23-15:50:37.182581 7f9de30d6640 Delete type=2 #462
-2024/01/23-15:50:37.182829 7f9de30d6640 Delete type=2 #460
-2024/01/23-15:50:37.183040 7f9de30d6640 Delete type=2 #461
-2024/01/24-08:58:52.627804 7f9de30d6640 Level-0 table #471: started
-2024/01/24-08:58:52.669973 7f9de30d6640 Level-0 table #471: 1805290 bytes OK
-2024/01/24-08:58:52.672961 7f9de30d6640 Delete type=0 #464
-2024/01/24-08:58:52.677771 7f9de30d6640 Manual compaction at level-0 from '!actors!0Ad0w9MO40C7UIAD' @ 72057594037927935 : 1 .. '!actors.items.effects!zwNDUdXzeKclxqA8.QWZfiFaF3qY5uvma.6pbotGIvqQkraPva' @ 0 : 0; will stop at (end)
-2024/01/24-08:58:53.137157 7f9de30d6640 Manual compaction at level-1 from '!actors!0Ad0w9MO40C7UIAD' @ 72057594037927935 : 1 .. '!actors.items.effects!zwNDUdXzeKclxqA8.QWZfiFaF3qY5uvma.6pbotGIvqQkraPva' @ 0 : 0; will stop at '!actors.items.effects!X03E1zGna6BS5Hik.HFtZUQR4t3elCp7m.potjmpJPeUA1U4oe' @ 42757 : 1
-2024/01/24-08:58:53.137164 7f9de30d6640 Compacting 1@1 + 4@2 files
-2024/01/24-08:58:53.191496 7f9de30d6640 Generated table #472@1: 1271 keys, 2125771 bytes
-2024/01/24-08:58:53.244018 7f9de30d6640 Generated table #473@1: 2278 keys, 2130096 bytes
-2024/01/24-08:58:53.296903 7f9de30d6640 Generated table #474@1: 2251 keys, 2130288 bytes
-2024/01/24-08:58:53.320038 7f9de30d6640 Generated table #475@1: 1163 keys, 912175 bytes
-2024/01/24-08:58:53.320052 7f9de30d6640 Compacted 1@1 + 4@2 files => 7298330 bytes
-2024/01/24-08:58:53.321713 7f9de30d6640 compacted to: files[ 0 0 4 0 0 0 0 ]
-2024/01/24-08:58:53.321846 7f9de30d6640 Delete type=2 #468
-2024/01/24-08:58:53.322051 7f9de30d6640 Delete type=2 #471
-2024/01/24-08:58:53.322333 7f9de30d6640 Delete type=2 #467
-2024/01/24-08:58:53.322565 7f9de30d6640 Delete type=2 #466
-2024/01/24-08:58:53.322730 7f9de30d6640 Delete type=2 #469
-2024/01/24-08:58:53.328940 7f9de30d6640 Manual compaction at level-1 from '!actors.items.effects!X03E1zGna6BS5Hik.HFtZUQR4t3elCp7m.potjmpJPeUA1U4oe' @ 42757 : 1 .. '!actors.items.effects!zwNDUdXzeKclxqA8.QWZfiFaF3qY5uvma.6pbotGIvqQkraPva' @ 0 : 0; will stop at (end)
+2024/03/31-23:28:25.333804 7f117bfff640 Recovering log #1047
+2024/03/31-23:28:25.341637 7f117bfff640 Delete type=3 #1031
+2024/03/31-23:28:25.341663 7f117bfff640 Delete type=0 #1047
+2024/03/31-23:48:41.988400 7f0edb5fc640 Level-0 table #1057: started
+2024/03/31-23:48:42.040764 7f0edb5fc640 Level-0 table #1057: 2011177 bytes OK
+2024/03/31-23:48:42.042614 7f0edb5fc640 Delete type=0 #1055
+2024/03/31-23:48:42.499288 7f0edb5fc640 Compacting 1@1 + 5@2 files
+2024/03/31-23:48:42.557864 7f0edb5fc640 Generated table #1058@1: 784 keys, 2122337 bytes
+2024/03/31-23:48:42.613271 7f0edb5fc640 Generated table #1059@1: 2183 keys, 2130114 bytes
+2024/03/31-23:48:42.669843 7f0edb5fc640 Generated table #1060@1: 2269 keys, 2131728 bytes
+2024/03/31-23:48:42.724167 7f0edb5fc640 Generated table #1061@1: 2072 keys, 2127007 bytes
+2024/03/31-23:48:42.751715 7f0edb5fc640 Generated table #1062@1: 1128 keys, 957089 bytes
+2024/03/31-23:48:42.751727 7f0edb5fc640 Compacted 1@1 + 5@2 files => 9468275 bytes
+2024/03/31-23:48:42.753518 7f0edb5fc640 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/03/31-23:48:42.753653 7f0edb5fc640 Delete type=2 #1049
+2024/03/31-23:48:42.753875 7f0edb5fc640 Delete type=2 #1051
+2024/03/31-23:48:42.754058 7f0edb5fc640 Delete type=2 #1057
+2024/03/31-23:48:42.754438 7f0edb5fc640 Delete type=2 #1050
+2024/03/31-23:48:42.754662 7f0edb5fc640 Delete type=2 #1052
+2024/03/31-23:48:42.754858 7f0edb5fc640 Delete type=2 #1053
+2024/03/31-23:48:58.982169 7f0edb5fc640 Level-0 table #1064: started
+2024/03/31-23:48:59.032428 7f0edb5fc640 Level-0 table #1064: 2066162 bytes OK
+2024/03/31-23:48:59.034064 7f0edb5fc640 Delete type=0 #1056
+2024/03/31-23:49:00.063422 7f0edb5fc640 Compacting 1@1 + 5@2 files
+2024/03/31-23:49:00.119884 7f0edb5fc640 Generated table #1065@1: 784 keys, 2123189 bytes
+2024/03/31-23:49:00.174992 7f0edb5fc640 Generated table #1066@1: 2183 keys, 2130081 bytes
+2024/03/31-23:49:00.240625 7f0edb5fc640 Generated table #1067@1: 2269 keys, 2131702 bytes
+2024/03/31-23:49:00.294888 7f0edb5fc640 Generated table #1068@1: 2075 keys, 2129596 bytes
+2024/03/31-23:49:00.320414 7f0edb5fc640 Generated table #1069@1: 1125 keys, 954250 bytes
+2024/03/31-23:49:00.320424 7f0edb5fc640 Compacted 1@1 + 5@2 files => 9468818 bytes
+2024/03/31-23:49:00.321901 7f0edb5fc640 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/03/31-23:49:00.322025 7f0edb5fc640 Delete type=2 #1059
+2024/03/31-23:49:00.322307 7f0edb5fc640 Delete type=2 #1062
+2024/03/31-23:49:00.322578 7f0edb5fc640 Delete type=2 #1058
+2024/03/31-23:49:00.322919 7f0edb5fc640 Delete type=2 #1064
+2024/03/31-23:49:00.323206 7f0edb5fc640 Delete type=2 #1061
+2024/03/31-23:49:00.323500 7f0edb5fc640 Delete type=2 #1060
+2024/03/31-23:49:12.961034 7f0edb5fc640 Level-0 table #1071: started
+2024/03/31-23:49:13.009211 7f0edb5fc640 Level-0 table #1071: 1946044 bytes OK
+2024/03/31-23:49:13.011127 7f0edb5fc640 Delete type=0 #1063
+2024/03/31-23:49:13.465927 7f0edb5fc640 Compacting 1@1 + 5@2 files
+2024/03/31-23:49:13.519679 7f0edb5fc640 Generated table #1072@1: 775 keys, 2122963 bytes
+2024/03/31-23:49:13.574804 7f0edb5fc640 Generated table #1073@1: 2186 keys, 2130315 bytes
+2024/03/31-23:49:13.629349 7f0edb5fc640 Generated table #1074@1: 2261 keys, 2130171 bytes
+2024/03/31-23:49:13.684792 7f0edb5fc640 Generated table #1075@1: 2072 keys, 2129265 bytes
+2024/03/31-23:49:13.711640 7f0edb5fc640 Generated table #1076@1: 1142 keys, 975336 bytes
+2024/03/31-23:49:13.711650 7f0edb5fc640 Compacted 1@1 + 5@2 files => 9488050 bytes
+2024/03/31-23:49:13.713037 7f0edb5fc640 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/03/31-23:49:13.713162 7f0edb5fc640 Delete type=2 #1066
+2024/03/31-23:49:13.713427 7f0edb5fc640 Delete type=2 #1069
+2024/03/31-23:49:13.713619 7f0edb5fc640 Delete type=2 #1065
+2024/03/31-23:49:13.713958 7f0edb5fc640 Delete type=2 #1067
+2024/03/31-23:49:13.714238 7f0edb5fc640 Delete type=2 #1068
+2024/03/31-23:49:13.714552 7f0edb5fc640 Delete type=2 #1071
+2024/04/01-09:13:55.909013 7f0edb5fc640 Level-0 table #1078: started
+2024/04/01-09:13:55.930678 7f0edb5fc640 Level-0 table #1078: 780146 bytes OK
+2024/04/01-09:13:55.932852 7f0edb5fc640 Delete type=0 #1070
+2024/04/01-09:13:55.941005 7f0edb5fc640 Manual compaction at level-0 from '!actors!0Ad0w9MO40C7UIAD' @ 72057594037927935 : 1 .. '!actors.items.effects!zwNDUdXzeKclxqA8.QWZfiFaF3qY5uvma.6pbotGIvqQkraPva' @ 0 : 0; will stop at (end)
+2024/04/01-09:13:55.941038 7f0edb5fc640 Manual compaction at level-1 from '!actors!0Ad0w9MO40C7UIAD' @ 72057594037927935 : 1 .. '!actors.items.effects!zwNDUdXzeKclxqA8.QWZfiFaF3qY5uvma.6pbotGIvqQkraPva' @ 0 : 0; will stop at '!actors.items.effects!fRCHL5ytlDDJDWSh.2HisvSXTbsVIyStb.8rP3gwmXVTgZqYZE' @ 125806 : 1
+2024/04/01-09:13:55.941041 7f0edb5fc640 Compacting 1@1 + 5@2 files
+2024/04/01-09:13:55.995022 7f0edb5fc640 Generated table #1079@1: 768 keys, 2121221 bytes
+2024/04/01-09:13:56.054226 7f0edb5fc640 Generated table #1080@1: 2185 keys, 2128919 bytes
+2024/04/01-09:13:56.112234 7f0edb5fc640 Generated table #1081@1: 2245 keys, 2130400 bytes
+2024/04/01-09:13:56.168343 7f0edb5fc640 Generated table #1082@1: 2078 keys, 2127809 bytes
+2024/04/01-09:13:56.194133 7f0edb5fc640 Generated table #1083@1: 1176 keys, 1004905 bytes
+2024/04/01-09:13:56.194143 7f0edb5fc640 Compacted 1@1 + 5@2 files => 9513254 bytes
+2024/04/01-09:13:56.196545 7f0edb5fc640 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/04/01-09:13:56.196631 7f0edb5fc640 Delete type=2 #1073
+2024/04/01-09:13:56.196780 7f0edb5fc640 Delete type=2 #1076
+2024/04/01-09:13:56.196882 7f0edb5fc640 Delete type=2 #1078
+2024/04/01-09:13:56.197060 7f0edb5fc640 Delete type=2 #1074
+2024/04/01-09:13:56.197249 7f0edb5fc640 Delete type=2 #1072
+2024/04/01-09:13:56.197390 7f0edb5fc640 Delete type=2 #1075
+2024/04/01-09:13:56.197734 7f0edb5fc640 Manual compaction at level-1 from '!actors.items.effects!fRCHL5ytlDDJDWSh.2HisvSXTbsVIyStb.8rP3gwmXVTgZqYZE' @ 125806 : 1 .. '!actors.items.effects!zwNDUdXzeKclxqA8.QWZfiFaF3qY5uvma.6pbotGIvqQkraPva' @ 0 : 0; will stop at (end)

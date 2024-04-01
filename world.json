@@ -5,13 +5,13 @@
   "coreVersion": "11.315",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "2.3.1",
+  "systemVersion": "3.1.1",
   "id": "coia",
   "compatibility": {
     "verified": "11.315",
     "minimum": "11"
   },
-  "description": "<p>Los aventureros encontraron a Zuberi Khufu en su mansión, y le conocieron como un director de Orquesta, músico y asesor de varias facetas para el Imperio Rayuniano. Además Zuberi tiene conexión de alguna manera con Kephrenit. Además conocieron al mayordomo de Zuberi, un anciando y enfermo llamado Rahmok.</p><p>Zuberi ordenó a los aventureros viajar al este, siguiendo el río Tjarum hasta llegar al Oasis de Kra'ekhtun, donde les aguardaría lo necesario para continuar con su misión.</p><p>Por el camino se encontraron unos bandidos, a los cuales mataron, e investigando una mercancía robada descubrieron que había objetos extraños provenientes de Shoraram.</p><p>Tras recitar unas palabras, Alderich invocó un portal y los aventureros se adentraron hacia el Vacío Aberrante, donde les esperaba toda clase de aterradoras criaturas y lugares.</p><p></p><p>SESIÓN NÚMERO 4 CAMPAÑA 2</p>",
+  "description": "<p>Los no muertos inundaban las calles de Narash, mientras un rayo destructor invocado también por Cither arrasaba cualquier estructura y ser que tocara, los aventureros consiguieron escapar de la Gran Arena de Khemar, y huir por las calles de la ciudad mientras presenciaban la invasión de los no muertos. Huyendo por la zona portuaria, los aventureros se encontraron con los Custodios del Comercio Sagrado, a quienes decidieron ayudar y salvar contra los no muertos, recibiendo recompensas a cambio de ello. Tras esto los aventureros se lanzaron a encontrar a la familia de Erdion Valtorin en el caos de la ciudad, enfrentándose en el camino a un grupo de guerreros resucitados por Cither, y el grupo, encabezado por Aezar, no tuvo grandes problemas para derrotar a estos individuos. Además por las calles pudieron ver como además de no muertos, la resistencia de Shan se encontraba presente, acabando con los soldados rayunianos de la ciudad, y encabezados por Dan Pil y Jinpa el Ardiente.</p><p></p><p>Tras correr de las zonas peligrosas, llegaron a un refugio seguro, donde se encontraba la familia de Erdion, este se emocionó de poder volver a verles, y entonces comprendió de que aunque él ya no pudiera ayudarles, el destino, los dioses, o algo había traído a los aventureros hasta Erdion no para que él les ayudara, sino para que les presentara a un heraldo que había huido de su tierra natal tras la debacle de la Entente de los Paladines, era Endrid, el heraldo de Dovarus, que aseguraba que estaba redimiéndose de sus errores del pasado y que haría lo que fuera para expulsar a los eternos de coia.</p><p>PRÓXIMA SESIÓN NÚMERO 8 CAMPAÑA 2</p>",
   "background": "https://i.ibb.co/8KvwJTQ/Rayunia-Sabana-Fondo.jpg",
   "packs": [
     {
@@ -87,8 +87,8 @@
       }
     }
   ],
-  "nextSession": "2024-01-27T09:00:00.000Z",
-  "lastPlayed": "Wed Jan 24 2024 08:58:52 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 3309726,
+  "nextSession": "2024-03-15T15:00:00.000Z",
+  "lastPlayed": "Mon Apr 01 2024 09:13:55 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 6585355,
   "joinTheme": "default"
 }
