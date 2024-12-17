@@ -1,15 +1,8 @@
-2024/06/08-11:30:48.942952 76405d6f9640 Recovering log #658
-2024/06/08-11:30:48.947922 76405d6f9640 Delete type=0 #658
-2024/06/08-11:30:48.947945 76405d6f9640 Delete type=3 #656
-2024/06/08-12:22:18.402732 764056baf640 Level-0 table #663: started
-2024/06/08-12:22:18.438083 764056baf640 Level-0 table #663: 1274211 bytes OK
-2024/06/08-12:22:18.440547 764056baf640 Delete type=0 #661
-2024/06/08-12:22:18.440899 764056baf640 Manual compaction at level-0 from '!items!02GxSrBsqEwLtAuV' @ 72057594037927935 : 1 .. '!items.effects!z6VaSPxRIOC15DCJ.JjH64T4YkNP1VTt4' @ 0 : 0; will stop at (end)
-2024/06/08-12:22:18.440927 764056baf640 Manual compaction at level-1 from '!items!02GxSrBsqEwLtAuV' @ 72057594037927935 : 1 .. '!items.effects!z6VaSPxRIOC15DCJ.JjH64T4YkNP1VTt4' @ 0 : 0; will stop at '!items.effects!z6VaSPxRIOC15DCJ.JjH64T4YkNP1VTt4' @ 14383 : 1
-2024/06/08-12:22:18.440931 764056baf640 Compacting 1@1 + 1@2 files
-2024/06/08-12:22:18.476917 764056baf640 Generated table #664@1: 1037 keys, 1212672 bytes
-2024/06/08-12:22:18.476931 764056baf640 Compacted 1@1 + 1@2 files => 1212672 bytes
-2024/06/08-12:22:18.478523 764056baf640 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/08-12:22:18.478651 764056baf640 Delete type=2 #651
-2024/06/08-12:22:18.479298 764056baf640 Delete type=2 #663
-2024/06/08-12:22:18.488246 764056baf640 Manual compaction at level-1 from '!items.effects!z6VaSPxRIOC15DCJ.JjH64T4YkNP1VTt4' @ 14383 : 1 .. '!items.effects!z6VaSPxRIOC15DCJ.JjH64T4YkNP1VTt4' @ 0 : 0; will stop at (end)
+2024/12/12-07:59:28.956494 723486000640 Recovering log #1008
+2024/12/12-07:59:28.963030 723486000640 Delete type=0 #1008
+2024/12/12-07:59:28.963053 723486000640 Delete type=3 #1006
+2024/12/12-10:56:17.138095 72347d600640 Level-0 table #1014: started
+2024/12/12-10:56:17.138509 72347d600640 Level-0 table #1014: 0 bytes OK
+2024/12/12-10:56:17.141683 72347d600640 Delete type=0 #1012
+2024/12/12-10:56:17.151280 72347d600640 Manual compaction at level-0 from '!items!08n4ds5rIdbmFINQ' @ 72057594037927935 : 1 .. '!items.effects!z6VaSPxRIOC15DCJ.JjH64T4YkNP1VTt4' @ 0 : 0; will stop at (end)
+2024/12/12-10:56:17.151318 72347d600640 Manual compaction at level-1 from '!items!08n4ds5rIdbmFINQ' @ 72057594037927935 : 1 .. '!items.effects!z6VaSPxRIOC15DCJ.JjH64T4YkNP1VTt4' @ 0 : 0; will stop at (end)

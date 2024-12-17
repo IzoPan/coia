@@ -1,8 +1,15 @@
-2024/05/27-15:05:11.781060 76405d6f9640 Recovering log #1032
-2024/05/27-15:05:11.786438 76405d6f9640 Delete type=0 #1032
-2024/05/27-15:05:11.786463 76405d6f9640 Delete type=3 #1030
-2024/05/30-20:35:27.946142 764056baf640 Level-0 table #1037: started
-2024/05/30-20:35:27.946597 764056baf640 Level-0 table #1037: 0 bytes OK
-2024/05/30-20:35:27.949306 764056baf640 Delete type=0 #1035
-2024/05/30-20:35:27.960304 764056baf640 Manual compaction at level-0 from '!scenes!1MbMYfeo1b9B95Qc' @ 72057594037927935 : 1 .. '!scenes.walls!x1eeiWD9uwAvxzwC.zyHo002M4lRzIH4s' @ 0 : 0; will stop at (end)
-2024/05/30-20:35:27.960353 764056baf640 Manual compaction at level-1 from '!scenes!1MbMYfeo1b9B95Qc' @ 72057594037927935 : 1 .. '!scenes.walls!x1eeiWD9uwAvxzwC.zyHo002M4lRzIH4s' @ 0 : 0; will stop at (end)
+2024/12/09-00:22:12.375410 723486000640 Recovering log #1391
+2024/12/09-00:22:12.381010 723486000640 Delete type=0 #1391
+2024/12/09-00:22:12.381064 723486000640 Delete type=3 #1389
+2024/12/09-00:27:16.768611 72347d600640 Level-0 table #1397: started
+2024/12/09-00:27:16.771064 72347d600640 Level-0 table #1397: 2078 bytes OK
+2024/12/09-00:27:16.772641 72347d600640 Delete type=0 #1395
+2024/12/09-00:27:16.776449 72347d600640 Manual compaction at level-0 from '!scenes!jPWFMxSIL2Ld0fLk' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!jPWFMxSIL2Ld0fLk.uGRAjNJgHjaLNpGJ.Ys3zo8EK5uInHKk6' @ 0 : 0; will stop at (end)
+2024/12/09-00:27:16.776486 72347d600640 Manual compaction at level-1 from '!scenes!jPWFMxSIL2Ld0fLk' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!jPWFMxSIL2Ld0fLk.uGRAjNJgHjaLNpGJ.Ys3zo8EK5uInHKk6' @ 0 : 0; will stop at '!scenes!jPWFMxSIL2Ld0fLk' @ 214357 : 1
+2024/12/09-00:27:16.776490 72347d600640 Compacting 1@1 + 1@2 files
+2024/12/09-00:27:16.780898 72347d600640 Generated table #1398@1: 18 keys, 8786 bytes
+2024/12/09-00:27:16.780917 72347d600640 Compacted 1@1 + 1@2 files => 8786 bytes
+2024/12/09-00:27:16.782578 72347d600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/09-00:27:16.782630 72347d600640 Delete type=2 #1397
+2024/12/09-00:27:16.782693 72347d600640 Delete type=2 #1393
+2024/12/09-00:27:16.805475 72347d600640 Manual compaction at level-1 from '!scenes!jPWFMxSIL2Ld0fLk' @ 214357 : 1 .. '!scenes.tokens.delta!jPWFMxSIL2Ld0fLk.uGRAjNJgHjaLNpGJ.Ys3zo8EK5uInHKk6' @ 0 : 0; will stop at (end)

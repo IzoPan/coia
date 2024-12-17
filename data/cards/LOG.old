@@ -1,8 +1,15 @@
-2024/05/27-15:05:11.398972 76405defa640 Recovering log #606
-2024/05/27-15:05:11.405346 76405defa640 Delete type=0 #606
-2024/05/27-15:05:11.405757 76405defa640 Delete type=3 #604
-2024/05/30-20:35:28.034837 764056baf640 Level-0 table #611: started
-2024/05/30-20:35:28.035232 764056baf640 Level-0 table #611: 0 bytes OK
-2024/05/30-20:35:28.037198 764056baf640 Delete type=0 #609
-2024/05/30-20:35:28.042144 764056baf640 Manual compaction at level-0 from '!cards!S2HVwk0O1svu9kRy' @ 72057594037927935 : 1 .. '!cards.cards!UesVrnrPuOoH6zp8.zHfrOVvN8Wa2Bkuf' @ 0 : 0; will stop at (end)
-2024/05/30-20:35:28.042191 764056baf640 Manual compaction at level-1 from '!cards!S2HVwk0O1svu9kRy' @ 72057594037927935 : 1 .. '!cards.cards!UesVrnrPuOoH6zp8.zHfrOVvN8Wa2Bkuf' @ 0 : 0; will stop at (end)
+2024/12/09-00:22:12.020248 723486a00640 Recovering log #925
+2024/12/09-00:22:12.027584 723486a00640 Delete type=0 #925
+2024/12/09-00:22:12.027611 723486a00640 Delete type=3 #923
+2024/12/09-00:27:16.372403 72347d600640 Level-0 table #930: started
+2024/12/09-00:27:16.375245 72347d600640 Level-0 table #930: 10289 bytes OK
+2024/12/09-00:27:16.377088 72347d600640 Delete type=0 #928
+2024/12/09-00:27:16.377192 72347d600640 Manual compaction at level-0 from '!cards!S2HVwk0O1svu9kRy' @ 72057594037927935 : 1 .. '!cards.cards!UesVrnrPuOoH6zp8.zHfrOVvN8Wa2Bkuf' @ 0 : 0; will stop at (end)
+2024/12/09-00:27:16.514159 72347d600640 Manual compaction at level-1 from '!cards!S2HVwk0O1svu9kRy' @ 72057594037927935 : 1 .. '!cards.cards!UesVrnrPuOoH6zp8.zHfrOVvN8Wa2Bkuf' @ 0 : 0; will stop at '!cards.cards!UesVrnrPuOoH6zp8.zHfrOVvN8Wa2Bkuf' @ 1248 : 1
+2024/12/09-00:27:16.514168 72347d600640 Compacting 1@1 + 1@2 files
+2024/12/09-00:27:16.517494 72347d600640 Generated table #931@1: 57 keys, 10289 bytes
+2024/12/09-00:27:16.517509 72347d600640 Compacted 1@1 + 1@2 files => 10289 bytes
+2024/12/09-00:27:16.519216 72347d600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/09-00:27:16.519268 72347d600640 Delete type=2 #922
+2024/12/09-00:27:16.519326 72347d600640 Delete type=2 #930
+2024/12/09-00:27:16.527137 72347d600640 Manual compaction at level-1 from '!cards.cards!UesVrnrPuOoH6zp8.zHfrOVvN8Wa2Bkuf' @ 1248 : 1 .. '!cards.cards!UesVrnrPuOoH6zp8.zHfrOVvN8Wa2Bkuf' @ 0 : 0; will stop at (end)
