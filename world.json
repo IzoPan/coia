@@ -1,106 +1,13 @@
 {
   "title": "Coia",
-  "version": "1.0.0",
-  "system": "dnd5e",
-  "coreVersion": "12.331",
-  "resetKeys": false,
-  "safeMode": false,
-  "systemVersion": "4.1.2",
   "id": "coia",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
   "compatibility": {
-    "verified": "12.331",
-    "minimum": "12"
+    "minimum": "11",
+    "verified": "11"
   },
-  "description": "<p>Los no muertos inundaban las calles de Narash, mientras un rayo destructor invocado también por Cither arrasaba cualquier estructura y ser que tocara, los aventureros consiguieron escapar de la Gran Arena de Khemar, y huir por las calles de la ciudad mientras presenciaban la invasión de los no muertos. Huyendo por la zona portuaria, los aventureros se encontraron con los Custodios del Comercio Sagrado, a quienes decidieron ayudar y salvar contra los no muertos, recibiendo recompensas a cambio de ello. Tras esto los aventureros se lanzaron a encontrar a la familia de Erdion Valtorin en el caos de la ciudad, enfrentándose en el camino a un grupo de guerreros resucitados por Cither, y el grupo, encabezado por Aezar, no tuvo grandes problemas para derrotar a estos individuos. Además por las calles pudieron ver como además de no muertos, la resistencia de Shan se encontraba presente, acabando con los soldados rayunianos de la ciudad, y encabezados por Dan Pil y Jinpa el Ardiente.</p><p></p><p>Tras correr de las zonas peligrosas, llegaron a un refugio seguro, donde se encontraba la familia de Erdion, este se emocionó de poder volver a verles, y entonces comprendió de que aunque él ya no pudiera ayudarles, el destino, los dioses, o algo había traído a los aventureros hasta Erdion no para que él les ayudara, sino para que les presentara a un heraldo que había huido de su tierra natal tras la debacle de la Entente de los Paladines, era Endrid, el heraldo de Dovarus, que aseguraba que estaba redimiéndose de sus errores del pasado y que haría lo que fuera para expulsar a los eternos de coia.</p><p>PRÓXIMA SESIÓN NÚMERO 8 CAMPAÑA 2</p>",
-  "background": "https://i.ibb.co/8KvwJTQ/Rayunia-Sabana-Fondo.jpg",
-  "packs": [
-    {
-      "label": "Monster Parts",
-      "type": "Item",
-      "name": "monster-parts",
-      "path": "packs/monster-parts",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Feats",
-      "type": "Item",
-      "name": "feats",
-      "path": "packs/feats",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Mutágenos azules",
-      "type": "Item",
-      "name": "mutagenos-azules",
-      "path": "packs/mutagenos-azules",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Mutágenos rojos",
-      "type": "Item",
-      "name": "mutagenos-rojos",
-      "path": "packs/mutagenos-rojos",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Mutágenos verdes",
-      "type": "Item",
-      "name": "mutagenos-verdes",
-      "path": "packs/mutagenos-verdes",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Pociones",
-      "type": "Item",
-      "name": "pociones",
-      "path": "packs/pociones",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Granadas",
-      "type": "Item",
-      "name": "granadas",
-      "path": "packs/granadas",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    }
-  ],
-  "nextSession": "2024-03-15T15:00:00.000Z",
-  "lastPlayed": "Thu Dec 12 2024 10:56:16 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 9123563,
-  "joinTheme": "default"
+  "systemVersion": "3.3.1",
+  "lastPlayed": "Tue Dec 17 2024 19:10:27 GMT+0100 (hora estándar de Europa central)"
 }

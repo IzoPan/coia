@@ -1,8 +1,15 @@
-2024/12/09-00:22:12.427405 723486000640 Recovering log #1084
-2024/12/09-00:22:12.433381 723486000640 Delete type=0 #1084
-2024/12/09-00:22:12.433404 723486000640 Delete type=3 #1082
-2024/12/09-00:27:16.803183 72347d600640 Level-0 table #1090: started
-2024/12/09-00:27:16.803200 72347d600640 Level-0 table #1090: 0 bytes OK
-2024/12/09-00:27:16.805437 72347d600640 Delete type=0 #1088
-2024/12/09-00:27:16.805500 72347d600640 Manual compaction at level-0 from '!users!2pbe1RpcW27nRHsT' @ 72057594037927935 : 1 .. '!users!zMNT7eW9d95ygpwr' @ 0 : 0; will stop at (end)
-2024/12/09-00:27:16.805530 72347d600640 Manual compaction at level-1 from '!users!2pbe1RpcW27nRHsT' @ 72057594037927935 : 1 .. '!users!zMNT7eW9d95ygpwr' @ 0 : 0; will stop at (end)
+2024/12/12-07:59:29.075408 723486000640 Recovering log #1089
+2024/12/12-07:59:29.080976 723486000640 Delete type=0 #1089
+2024/12/12-07:59:29.080998 723486000640 Delete type=3 #1087
+2024/12/12-10:56:17.161870 72347d600640 Level-0 table #1094: started
+2024/12/12-10:56:17.164825 72347d600640 Level-0 table #1094: 8359 bytes OK
+2024/12/12-10:56:17.166861 72347d600640 Delete type=0 #1092
+2024/12/12-10:56:17.173718 72347d600640 Manual compaction at level-0 from '!users!2pbe1RpcW27nRHsT' @ 72057594037927935 : 1 .. '!users!zMNT7eW9d95ygpwr' @ 0 : 0; will stop at (end)
+2024/12/12-10:56:17.178314 72347d600640 Manual compaction at level-1 from '!users!2pbe1RpcW27nRHsT' @ 72057594037927935 : 1 .. '!users!zMNT7eW9d95ygpwr' @ 0 : 0; will stop at '!users!sW2bevCkThu6Y1xg' @ 13263 : 1
+2024/12/12-10:56:17.178321 72347d600640 Compacting 1@1 + 1@2 files
+2024/12/12-10:56:17.181499 72347d600640 Generated table #1095@1: 10 keys, 62415 bytes
+2024/12/12-10:56:17.181508 72347d600640 Compacted 1@1 + 1@2 files => 62415 bytes
+2024/12/12-10:56:17.182965 72347d600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/12-10:56:17.183013 72347d600640 Delete type=2 #1086
+2024/12/12-10:56:17.183466 72347d600640 Delete type=2 #1094
+2024/12/12-10:56:17.205099 72347d600640 Manual compaction at level-1 from '!users!sW2bevCkThu6Y1xg' @ 13263 : 1 .. '!users!zMNT7eW9d95ygpwr' @ 0 : 0; will stop at (end)
